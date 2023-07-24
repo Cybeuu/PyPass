@@ -11,7 +11,7 @@
 
 ### Description:
 
-PyWarden is an advanced password manager, developed as the CS50P Final Project, focused on enhancing password security through encryption. Its user-friendly interface enables easy password management while ensuring robust protection against unauthorized access. Features include secure password storage, login, password retrieval with authorized keys, and password strength assessment to guard against leaks or compromises. Please note that PyWarden is a project and not intended for actual password storage.
+PyWarden is an password manager, developed as the CS50P Final Project, focused on enhancing password security through encryption. Its user-friendly interface enables easy password management while ensuring robust protection against unauthorized access. Features include secure password storage, login, password retrieval with authorized keys, and password strength assessment to guard against leaks or compromises. Please note that PyWarden is a project and not intended for actual password storage.
 
 
 
